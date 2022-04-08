@@ -1,8 +1,11 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
+ *
  * my hello, print task
- * return: return 1 after program execution
+ *
+ * return: return 0 after program execution
  */
 int main(void)
 {
