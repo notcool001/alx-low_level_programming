@@ -1,1 +1,1 @@
-if ,else , while
+writing the commands of C
