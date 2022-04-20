@@ -1,1 +1,1 @@
-This is thr beginning of my learni g path in low level programming
+This directory shows some examples and usage of pointers, arrays and strings
